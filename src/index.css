@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    cursor: default;
+}
+
+button, input, select{
+    border: none;
+    outline: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+a, button{
+    cursor: pointer;
+}
+
+.size{
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.button{
+    width: 150px;
+    height: 44px;
+    border-radius: 4px;
+    background-color: green;
+    margin: 20px;
+    color: hotpink;
+}
+.button2{
+    background-color: indigo;
+    color: #fff;
+}
+.text{
+    font-size: 22px;
+    margin: 20px;
+}
